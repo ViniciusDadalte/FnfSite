@@ -63,7 +63,7 @@ function perereca2(){
   logo.src = 'images/logo-kapi.jpg';
   fot.style.color = 'black';
   link.href = 'https://gamebanana.com/mods/44683';
-  icone.href = 'images/logo-kapi.jpg';
+  icon.href = 'images/logo-kapi.jpg';
 }
 function perereca3(){
   persona.src = 'images/trick.gif';
@@ -91,5 +91,5 @@ function perereca3(){
   fot.style.color = 'white';
   paragrafo.style.color = 'white';
   link.href = 'https://gamebanana.com/mods/44334';
-  icone.href = 'images/trick-logo.jpg';
+  icon.href = 'images/trick-logo.jpg';
 }
