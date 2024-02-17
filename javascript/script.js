@@ -35,7 +35,7 @@ function perereca1(){
   logo.src = 'images/logo.png';
   fot.style.color = 'white';
   link.href = 'https://gamebanana.com/mods/309789';
-  icone.href = 'images/logo.png';
+  icon.href = 'images/logo.png';
 }
 function perereca2(){
   persona.src = 'images/kapi.gif';
