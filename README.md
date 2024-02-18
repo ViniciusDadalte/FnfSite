@@ -1,4 +1,4 @@
-<img src="images/logo.png" alt="logo fnf"/>
+<img style="width:300px;height:300px" src="images/logo.png" alt="logo fnf"/>
 
 <h1>Site de FNF</h1>
 
@@ -14,11 +14,11 @@
 
 <h5><span>Jogo original:</span></h5>
 
-<img src="images/img-pequena1.gif" alt="imagem bf" />
+<img style="width:300px;height:300px" src="images/img-pequena1.gif" alt="imagem bf" />
 
 <h5><span>Vs Arcade Showndown:</span></h5>
 
-<img src="images/img-pequena2.gif" alt="imagem kapi" />
+<img style="width:300px;height:300px" src="images/img-pequena2.gif" alt="imagem kapi" />
 
 <h5><span>Vs Tricky:</span></h5>
 
