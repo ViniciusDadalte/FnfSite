@@ -6,6 +6,7 @@
   Também vou falar sobre o que se trata a história do jogo e a história dos mods.
 </h3>
 
+##
 
 <h4><span>Os mods são:</span></h4>
 
@@ -21,13 +22,17 @@
 
 <img style="width:300px;height:300px;" src="images/img-pequena3.gif" alt="imagem tricky" />
 
+##
+
 <h4><span>Essas foram as tecnologias utilizadas:</span></h4>
 
 <div>
   
 </div>
 
-<h4>Observações:<br><br></h4>
+##
+
+<h4>Observações:<br></h4>
 
 <h5>Eu escrevi esse código pelo celular, talvez o codigo esteja um pouco estranho pois escrevi de uma forma que fique melhor na tela do meu celular.<br /><br />Mas estou aceitando dicas de como deixar meu codigo melhor.<br /><br /></h5>
 
