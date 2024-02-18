@@ -7,16 +7,16 @@
 </h3>
 
 
-<h4>Os mods são:</h4>
+<h4><span>Os mods são:</span></h4>
 
-<h5>Jogo original:</h5>
+<h5><span>Jogo original:</span></h5>
 
 <img src="images/img-pequena1.gif" alt="imagem bf" />
 
-<h5>Vs Arcade Showndown:</h5>
+<h5><span>Vs Arcade Showndown:</span></h5>
 
 <img src="images/img-pequena2.gif" alt="imagem kapi" />
 
-<h5>Vs Tricky:</h5>
+<h5><span>Vs Tricky:</span></h5>
 
 <img style="width:300px;height:300px;" src="images/img-pequena3.gif" alt="imagem tricky" />
