@@ -19,4 +19,4 @@
 
 <h5>Vs Tricky:</h5>
 
-<img style="width:400px;height:300px;" src="images/img-pequena3.gif" alt="imagem tricky" />
+<img style="width:350px;height:300px;" src="images/img-pequena3.gif" alt="imagem tricky" />
