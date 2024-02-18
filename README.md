@@ -16,7 +16,7 @@
 
 <img style="width:200px;height:200px" src="images/img-pequena1.gif" alt="imagem bf" />
 
-<h5><span>Vs Arcade Showndown:</span></h5>
+<h5><span>Vs Arcade Showdown:</span></h5>
 
 <img style="width:200px;height:200px" src="images/img-pequena2.gif" alt="imagem kapi" />
 
