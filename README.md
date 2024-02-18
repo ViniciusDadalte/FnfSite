@@ -22,7 +22,7 @@
 
 <h5><span>Vs Tricky:</span></h5>
 
-<img style="width:300px;height:300px;" src="images/img-pequena3.gif" alt="imagem tricky" />
+<img style="width:500px;height:400px;" src="images/img-pequena3.gif" alt="imagem tricky" />
 
 ##
 
