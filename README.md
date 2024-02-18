@@ -1,4 +1,4 @@
-<img style="width:300px;height:300px" src="images/logo.png" alt="logo fnf"/>
+<img style="width:450px;height:300px" src="images/logo.png" alt="logo fnf"/>
 
 <h1>Site de FNF</h1>
 
