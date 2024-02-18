@@ -1,5 +1,6 @@
 <img src="images/logo.png" alt="logo fnf"/>
-# Site de FNF
+
+<h1>Site de FNF</h1>
 
 <h4>
   Nesse repositório irei deixar um site sobre o jogo Friday night funkin, onde deixo dois dos meus mods favoritos, e o jogo original.
